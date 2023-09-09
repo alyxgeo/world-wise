@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {
+      "cityName": "Tamale",
+      "country": "Ghana",
+      "date": "2023-08-03T04:58:18.369Z",
+      "notes": "i",
+      "position": {
+        "lat": "9.417346678043662",
+        "lng": "-0.8404541015625001"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Tamentit",
+      "country": "Algeria",
+      "date": "2023-08-03T05:02:50.151Z",
+      "notes": "u",
+      "position": {
+        "lat": "27.919530810758012",
+        "lng": "0.6152343750000001"
+      },
+      "id": 2
+    }
+  ]
+}
